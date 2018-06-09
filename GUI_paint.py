@@ -1,3 +1,5 @@
+#hisory
+#20180609        HuangHai        First Version
 from tkinter import *
 from tkinter.filedialog import askdirectory
 import tkinter.messagebox as messagebox
